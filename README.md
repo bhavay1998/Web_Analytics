@@ -22,5 +22,5 @@ The project concludes with assisting the Website Manager in website content anal
 
 ## Project Code
 The two code files *Traffic Source Analysis* and *Website Measurement & Testing* are present both in **PDF** and **Jupyter Notebook** format in the project repository. The code was run on Jupyer Notebooks with MySQL client to make code output visible directly under the code cell. This makes the code easy to interpret. Links:
-- 
+- https://github.com/bhavay1998/Web_Analytics/blob/main/Traffic%20Source%20Analysis.ipynb
 -
