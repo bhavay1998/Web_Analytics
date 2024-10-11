@@ -1,5 +1,5 @@
 # Web_Analytics
-Project Repository for the Maven Fuzzy Factory Marketing Team.
+Project Repository for the Maven Fuzzy Factory Marketing and Website Management Teams.
 
 ## Objective
 The aim of the project is to help the management steer the business in the right direction, by assuming the role of a Web Analyst. Maven Fuzzy Factory is an online retailer that has just begun to generate sales. All analyses are performed by querying the ecommerce database using MySQL Client with Jupyter Notebooks. The entire code can be reproduced on MySQL Workbench.
@@ -21,6 +21,7 @@ The project concludes with assisting the Website Manager in website content anal
 - In a trend analysis, the business witnessed a reduction in the overall bounce rate for their website
 
 ## Project Code
-The two code files *Traffic Source Analysis* and *Website Measurement & Testing* are present both in **PDF** and **Jupyter Notebook** format in the project repository. The code was run on Jupyer Notebooks with MySQL client to make code output visible directly under the code cell. This makes the code easy to interpret. Links:
+The two code files *Traffic Source Analysis* and *Website Measurement & Testing* are present both in **PDF** and **Jupyter Notebook** formats in the project repository. The code was run on Jupyer Notebooks with MySQL client to make code output visible directly under the code cell. This makes the code easy to interpret.
+Links:
 - https://github.com/bhavay1998/Web_Analytics/blob/main/Traffic%20Source%20Analysis.ipynb
--
+- https://github.com/bhavay1998/Web_Analytics/blob/main/Website%20Content%20Analysis%20and%20Testing.ipynb
