@@ -21,4 +21,6 @@ The project concludes with assisting the Website Manager in website content anal
 - In a trend analysis, the business witnessed a reduction in the overall bounce rate for their website
 
 ## Project Code
-The two code files "" 
+The two code files *Traffic Source Analysis* and *Website Measurement & Testing* are present both in **PDF** and **Jupyter Notebook** format in the project repository. The code was run on Jupyer Notebooks with MySQL client to make code output visible directly under the code cell. This makes the code easy to interpret. Links:
+- 
+-
