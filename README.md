@@ -4,6 +4,9 @@ Project Repository for the Maven Fuzzy Factory Marketing Team.
 ## Objective
 The aim of the project is to help the management steer the business in the right direction, by assuming the role of a Web Analyst. Maven Fuzzy Factory is an online retailer that has just begun to generate sales. All analyses are performed by querying the ecommerce database using MySQL Client with Jupyter Notebooks. The entire code can be reproduced on MySQL Workbench.
 
+## Preparing the Database
+The database can be generated with the *SQL text file* provided in the repository. Link: <u> https://github.com/bhavay1998/Web_Analytics/blob/main/preparing_workbench_vApril2022.sql </u>
+
 ## Database Schema
 The schema is stored in the project repository. It can also be visited with the link: <u> https://github.com/bhavay1998/Web_Analytics/blob/main/Schema.pdf </u>
 
